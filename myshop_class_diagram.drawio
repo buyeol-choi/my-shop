@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T09:58:04.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="C1CoJLmZOVP063MkNeia" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T09:59:11.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CI4RZESNATCYbtCIT22I" version="14.5.1" type="github">
   <diagram id="HvKtopgGxEqVqM1ahVo2" name="Page-1">
-    <mxGraphModel dx="1125" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -676,7 +676,7 @@
         <mxCell id="20nu8ZvE-JKUWQIdzVCV-64" value="9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;spacing=0;fontSize=8;" vertex="1" parent="20nu8ZvE-JKUWQIdzVCV-63">
           <mxGeometry width="36" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="20nu8ZvE-JKUWQIdzVCV-65" value="&lt;span style=&quot;color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;installmentTerm&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;spacing=0;fontSize=8;" vertex="1" parent="20nu8ZvE-JKUWQIdzVCV-63">
+        <mxCell id="20nu8ZvE-JKUWQIdzVCV-65" value="&lt;span style=&quot;color: rgb(85, 85, 85); font-family: &amp;quot;맑은 고딕&amp;quot;, seoul, arial, helvetica; font-size: 8px; background-color: rgb(255, 255, 255);&quot;&gt;installmentTerm&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;spacing=0;fontSize=8;" vertex="1" parent="20nu8ZvE-JKUWQIdzVCV-63">
           <mxGeometry x="36" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="20nu8ZvE-JKUWQIdzVCV-66" value="단말 할부기간" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;spacing=0;fontSize=8;" vertex="1" parent="20nu8ZvE-JKUWQIdzVCV-63">
