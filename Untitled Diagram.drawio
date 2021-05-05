@@ -1,1 +1,515 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T01:38:33.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="xihHRd5SNqc-wOpvD3Tf" version="14.6.9" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7Vpvd5o6HP40vtw9BITqy+pstzN31lN7T19HyCS3SFgIU/bpl0BS1KiEtSC33TlayY8Q5Xme37+UgTNdb28pTMKvJEDRwLaC7cD5OLBtYNsO/xCWXFkcUFpWFAfSVhkW+BeSRktaMxygdG8iIyRiONk3+iSOkc/2bJBSstmf9p1E+9+awBXSDAsfRrr1EQcsLK0j16rsnxBeheqbgSXPrKGaLA1pCAOy2TE5s4EzpYSw8mi9naJIoKdwKa+7OXH2+YdRFDOTC5w4m9xs6djP51YSf3t8sOHtB7nKTxhl8obvZvdfuOXfO/7n8fPDJ/5xzd/z64eHmbwRlit0+D0l4pDBpTBN/BBHwRzmJGPKqkYTzsUcxwWXlphKomwd71pSBimTChgKQ8jWET8G/HATYoYWCfTFyQ3XWrlCBJMUF19drECRn9EU/0T3KC3XEVa0TWAcyMF3ErOFvIEjECo8EGVou2OSkN4iskaM5nyKOqv4lgK/ksNNJRZP2cIdoTjqOigFunpeuuKQH0gaG1Bqa5RqtKGAa1wOCWUhWZEYRrPKysnK4gAp0Ko5c0ISScl/iLFc0gUzRvYJ06E9p7+UZNRHZ+ZdSdeHdIXOricnijs8Sx9FEWRcKfsB47W5cDQuplnK+OJUd6UNXkcwFuCHhOJfXKcwkvgnBMes+G3uhL+4cqbWP+7A5ddN+RhUY/4S0ymbkjhlFOICfQRTtkEp68rJmpFv4GzSuYaGzgVGbTnXUCP0BhUpj2HK3eUMqTJBwQrIPlHhGFOxPUkFcDqlwu1xWBsahjXPMKz1K6p5mhMshJQ1Piq0T0l6B1lIfYm620C3yh+NdWvvp2tPl/H4iIqHbYn4So8nmPuubS0hxTxAnMHUqse0IxCBfWEURxqKX+ETEo5FYZxCn2ESv6PYDI4UoU63eXKsMXKPfmSiBLEtHqIY6kTYo6bI9U3YqgvewXGS5f3GELh9A1FvcmXRliD6lL+jwOBevmoDve5GTdtRIKGv70dlbu1J5Qb0hvQjxfFTpxEFNN5k6VnRBvQucBbrzV8H5e+Lobx8cHb1DHei9P27Q1K/Q2If4fPoFkl7AV7vDv88w14aftcY/4bbIu3Br3eUtxQhUXf7p7YeWwnyXlPoDiLTxQOT3lS+Ix0bt5DtCVlvITX8e1Q5SrXUVo5K1rWVo7rdnlSOtt6JXvs+Snhg8SKRNpc8rngrcZTAfC3Q6iTMvLg9vXScsfXu9JFiUYpbAWIQR6mOsNjN4uE80QOS/H9sQPys4KAW52VJynzZOvCHlacZ7l5ruNsa7nLT8HgnpKBNKPFRmhogC/2nVaH5bxmLsMgSLQPs9UzZerP5jjKo8V5LaxnU1tvUPmdQwwQKTB8FGL92/iwuvaYU5jsTZONZrXwnDDvp5tApvYOndGrmq524SgjlL6hk8XwrL1CK3oS/AaWMTSst0K9Ky6CB/v+R8fzwXu2OqdULv3WsZn57OL8bv9Wb/TcgFWDcIr26VF7muKM3AL5SUL2fOr3wU9dp5qeH89UG+B/6KR9WT/CW06sHoZ3Zbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-05T05:23:20.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QmdzSvqH8Jo4bu7iqEFj" version="14.6.9" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="4063" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-1" value="step1" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="930" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-7" target="hcrP4_iupPlY2hrp6fmF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-3" value="Frontend" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-1">
+          <mxGeometry y="40" width="930" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-4" value="휴대폰 모델 선택" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-3">
+          <mxGeometry x="40" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-4" source="hcrP4_iupPlY2hrp6fmF-6" target="hcrP4_iupPlY2hrp6fmF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-4">
+          <mxGeometry x="45" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-4" source="hcrP4_iupPlY2hrp6fmF-7" target="hcrP4_iupPlY2hrp6fmF-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-7" value="모상품그룹" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-4">
+          <mxGeometry x="20" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-63" value="모상품&lt;br&gt;(컬러/용량 선택)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-4">
+          <mxGeometry x="200" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-8" value="배송 선택" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-3">
+          <mxGeometry x="400" width="530" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-105" value="연락처&lt;br&gt;배송주소" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-8">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-89" value="배송방법" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-8">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-8" source="hcrP4_iupPlY2hrp6fmF-89" target="hcrP4_iupPlY2hrp6fmF-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-3" source="hcrP4_iupPlY2hrp6fmF-63" target="hcrP4_iupPlY2hrp6fmF-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-107" target="hcrP4_iupPlY2hrp6fmF-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-15" value="BFF" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-1">
+          <mxGeometry y="310" width="930" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-16" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-15">
+          <mxGeometry x="40" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-17" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_PRODUCT_001&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS&lt;br&gt;_PRODUCT_001&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-16">
+          <mxGeometry x="20" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-18" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-15">
+          <mxGeometry x="400" width="530" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-107" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_PRODUCT_003&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;PRODUCT_003&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-18">
+          <mxGeometry x="30" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-108" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_PRODUCT_006&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;PRODUCT_006&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-18">
+          <mxGeometry x="200" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-108" target="hcrP4_iupPlY2hrp6fmF-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.9999999999995" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-47" value="Backend API" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-1">
+          <mxGeometry y="430" width="930" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-48" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-47">
+          <mxGeometry x="40" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-51" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=327658173&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;02 모상품 리스트 조회&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-48">
+          <mxGeometry x="20" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-49" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-47">
+          <mxGeometry x="400" width="530" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-112" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/01+As-Is+Open+API&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;01 As-Is Open API&lt;/a&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: left ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255) ; color: rgb(23 , 43 , 77)&quot;&gt;TWDD_QCK-DLV-PSBLEQP&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-49">
+          <mxGeometry x="30" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-113" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/01+As-Is+Open+API&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;01 As-Is Open API&lt;/a&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: left ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255) ; color: rgb(23 , 43 , 77)&quot;&gt;TWDD_QCK-DLV-PSBLAREA&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-49">
+          <mxGeometry x="200" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-127" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_PRODUCT_002&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;PRODUCT_002&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-49">
+          <mxGeometry x="370" y="-85" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-49" source="hcrP4_iupPlY2hrp6fmF-127" target="hcrP4_iupPlY2hrp6fmF-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269.99999999999955" y="-300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-129" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=334401032&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;청구지 주소 정보 조회&lt;/a&gt;&lt;span style=&quot;color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;(SUKEY00016)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-49">
+          <mxGeometry x="370" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-17" target="hcrP4_iupPlY2hrp6fmF-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-51" target="hcrP4_iupPlY2hrp6fmF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-63" target="hcrP4_iupPlY2hrp6fmF-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-105" target="hcrP4_iupPlY2hrp6fmF-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-108" target="hcrP4_iupPlY2hrp6fmF-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-127" target="hcrP4_iupPlY2hrp6fmF-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="290" />
+              <mxPoint x="700" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-107" target="hcrP4_iupPlY2hrp6fmF-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-214" value="step2" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1000" y="40" width="1280.000000000001" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-216" value="Frontend" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-214">
+          <mxGeometry y="40" width="1280.000000000001" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-217" value="요금제 선택" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-216">
+          <mxGeometry x="40" width="800" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-217" source="hcrP4_iupPlY2hrp6fmF-253" target="hcrP4_iupPlY2hrp6fmF-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-253" value="가입유형" style="whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-217">
+          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-257" value="요금제" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-217">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-295" value="추가요금할인&lt;br&gt;온가족/복지" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-217">
+          <mxGeometry x="580" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-217" source="hcrP4_iupPlY2hrp6fmF-357" target="hcrP4_iupPlY2hrp6fmF-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-357" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-217">
+          <mxGeometry x="45" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-223" value="가입조건 선택" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-216">
+          <mxGeometry x="840" width="440" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-261" value="할인방법&lt;br&gt;할부방법" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-223">
+          <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-223" source="hcrP4_iupPlY2hrp6fmF-231" target="hcrP4_iupPlY2hrp6fmF-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-231" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_PRODUCT_013&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;PRODUCT_013&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-223">
+          <mxGeometry x="50" y="305" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-238" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=331285333&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;06 모바일 할부/약정 옵션 조회&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-223">
+          <mxGeometry x="50" y="415" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-223" source="hcrP4_iupPlY2hrp6fmF-238" target="hcrP4_iupPlY2hrp6fmF-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-286" value="월예상&lt;br&gt;납부금액" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-223">
+          <mxGeometry x="260" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-216" source="hcrP4_iupPlY2hrp6fmF-295" target="hcrP4_iupPlY2hrp6fmF-231">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="160" />
+              <mxPoint x="870" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-214" source="hcrP4_iupPlY2hrp6fmF-261" target="hcrP4_iupPlY2hrp6fmF-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-214" source="hcrP4_iupPlY2hrp6fmF-288" target="hcrP4_iupPlY2hrp6fmF-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-214" source="hcrP4_iupPlY2hrp6fmF-275" target="hcrP4_iupPlY2hrp6fmF-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-214" source="hcrP4_iupPlY2hrp6fmF-275" target="hcrP4_iupPlY2hrp6fmF-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-214" source="hcrP4_iupPlY2hrp6fmF-301" target="hcrP4_iupPlY2hrp6fmF-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-214" source="hcrP4_iupPlY2hrp6fmF-304" target="hcrP4_iupPlY2hrp6fmF-295">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-296" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-214" source="hcrP4_iupPlY2hrp6fmF-257" target="hcrP4_iupPlY2hrp6fmF-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-229" value="BFF" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-214">
+          <mxGeometry y="310" width="1280.000000000001" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-230" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-229">
+          <mxGeometry x="40" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-275" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_PRODUCT_010&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;PRODUCT_010&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-230">
+          <mxGeometry x="190" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-301" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_PRODUCT_014&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;PRODUCT_014&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-230">
+          <mxGeometry x="500" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-302" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/01+As-Is+Open+API&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;01 As-Is Open API&lt;/a&gt;&lt;br&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;(TWDD_CUST_DC_AMT)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-230">
+          <mxGeometry x="500" y="145" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-230" source="hcrP4_iupPlY2hrp6fmF-302" target="hcrP4_iupPlY2hrp6fmF-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-304" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_PRODUCT_015&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;PRODUCT_015&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-230">
+          <mxGeometry x="640" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-305" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=334401016&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;고객 회선 정보 조회&lt;/a&gt;&lt;br&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;(SICAS00017)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-230">
+          <mxGeometry x="640" y="145" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-230" source="hcrP4_iupPlY2hrp6fmF-305" target="hcrP4_iupPlY2hrp6fmF-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-232" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-229">
+          <mxGeometry x="840" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-288" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_ORDER_001&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;ORDER_001&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-232">
+          <mxGeometry x="250" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-289" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=335228157&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;TDS_BE_ORDER_002&lt;br&gt;(최종 월 납부금 계산)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-232">
+          <mxGeometry x="250" y="145" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-232" source="hcrP4_iupPlY2hrp6fmF-289" target="hcrP4_iupPlY2hrp6fmF-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-236" value="Backend API" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-214">
+          <mxGeometry y="430" width="1280.000000000001" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-237" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-236">
+          <mxGeometry x="40" width="800" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-274" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=327659331&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;05 모바일 요금제 &lt;br&gt;리스트 조회&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-237">
+          <mxGeometry x="50" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-278" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=334401016&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;고객 회선 정보 조회&lt;/a&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;SICAS00017)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-237">
+          <mxGeometry x="330" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-276" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=334401106&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;AI추천 요금제 정보&lt;/a&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;BFF_MLS_001&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-237">
+          <mxGeometry x="190" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-239" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-236">
+          <mxGeometry x="840" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-439" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-214" source="hcrP4_iupPlY2hrp6fmF-357" target="hcrP4_iupPlY2hrp6fmF-275">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-312" value="장바구니" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="930" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-312" source="hcrP4_iupPlY2hrp6fmF-319" target="hcrP4_iupPlY2hrp6fmF-329">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-314" value="Frontend" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-312">
+          <mxGeometry y="40" width="930" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-315" value="장바구니 담기/조회/삭제" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-314">
+          <mxGeometry x="40" width="890" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-315" source="hcrP4_iupPlY2hrp6fmF-317" target="hcrP4_iupPlY2hrp6fmF-319">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-317" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-315">
+          <mxGeometry x="45" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-315" source="hcrP4_iupPlY2hrp6fmF-319" target="hcrP4_iupPlY2hrp6fmF-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-319" value="장바구니담기" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-315">
+          <mxGeometry x="20" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-320" value="장바구니조회" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-315">
+          <mxGeometry x="230" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-327" value="BFF" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-312">
+          <mxGeometry y="310" width="930" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-328" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-327">
+          <mxGeometry x="40" width="890" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-329" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_ORDER_006&quot; style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; color: rgb(59 , 115 , 175) ; text-decoration: none ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;ORDER_006&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-328">
+          <mxGeometry x="20" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-361" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_ORDER_007&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;ORDER_007&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-328">
+          <mxGeometry x="230" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-362" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=335228169&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;TDS_BE_BASKET_001&lt;br&gt;(장바구니 아이템 전체 조회)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-328">
+          <mxGeometry x="230" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-328" source="hcrP4_iupPlY2hrp6fmF-362" target="hcrP4_iupPlY2hrp6fmF-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-364" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_ORDER_008&quot; style=&quot;font-weight: 400 ; text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;ORDER_008&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-328">
+          <mxGeometry x="430" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-365" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=335228171&quot; style=&quot;font-weight: 400 ; text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;TDS_BE_BASKET_003&lt;br&gt;(고객 장바구니 아이템 삭제)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-328">
+          <mxGeometry x="430" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;fontStyle=1" edge="1" parent="hcrP4_iupPlY2hrp6fmF-328" source="hcrP4_iupPlY2hrp6fmF-365" target="hcrP4_iupPlY2hrp6fmF-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-334" value="Backend API" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-312">
+          <mxGeometry y="430" width="930" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-335" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-334">
+          <mxGeometry x="40" width="890" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-336" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=335228159&quot; style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; color: rgb(59 , 115 , 175) ; text-decoration: none ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;TDS_BE_BASKET_002&lt;br&gt;(장바구니 아이템 등록)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-335">
+          <mxGeometry x="20" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-368" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=338618152&quot; style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; font-weight: 400 ; text-align: left ; color: rgb(59 , 115 , 175)&quot;&gt;TDS_BE_BASKET_004&lt;br&gt;(고객 장바구니 아이템 전체 삭제)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-335">
+          <mxGeometry x="570" y="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-369" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=338618149&quot; style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; font-weight: 400 ; text-align: left ; color: rgb(59 , 115 , 175)&quot;&gt;TDS_BE_BASKET_005&lt;br&gt;(장바구니 아이템 삭제 : 30일 초과)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-335">
+          <mxGeometry x="710" y="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-312" source="hcrP4_iupPlY2hrp6fmF-336" target="hcrP4_iupPlY2hrp6fmF-329">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-374" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-312" source="hcrP4_iupPlY2hrp6fmF-320" target="hcrP4_iupPlY2hrp6fmF-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-373" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="hcrP4_iupPlY2hrp6fmF-359" target="hcrP4_iupPlY2hrp6fmF-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-359" value="장바구니삭제" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="780" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-360" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="hcrP4_iupPlY2hrp6fmF-320" target="hcrP4_iupPlY2hrp6fmF-359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-375" value="step3" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1000" y="610" width="1470.000000000001" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-376" value="Frontend" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-375">
+          <mxGeometry y="40" width="1470.000000000001" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-377" value="추가 할인" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-376">
+          <mxGeometry x="40" width="670" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-380" value="쿠폰발급/적용" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-377">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-383" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-377">
+          <mxGeometry x="45" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-429" value="T모아포인트&lt;br&gt;적용" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-377">
+          <mxGeometry x="370" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-430" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#f5f5f5;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-377" source="hcrP4_iupPlY2hrp6fmF-380" target="hcrP4_iupPlY2hrp6fmF-429">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-384" value="T기프트" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-376">
+          <mxGeometry x="710" width="390" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-443" value="T기프트선택" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-384">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-463" value="신청서" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-376">
+          <mxGeometry x="1100" width="370" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-471" value="신청서발행" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-463">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-453" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-376" source="hcrP4_iupPlY2hrp6fmF-383" target="hcrP4_iupPlY2hrp6fmF-443">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-473" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-376" source="hcrP4_iupPlY2hrp6fmF-443" target="hcrP4_iupPlY2hrp6fmF-471">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-399" value="BFF" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-375">
+          <mxGeometry y="310" width="1470.000000000001" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-400" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-399">
+          <mxGeometry x="40" width="670" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-428" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-400" source="hcrP4_iupPlY2hrp6fmF-401" target="hcrP4_iupPlY2hrp6fmF-425">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-401" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_BENEFIT_001&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;BENEFIT_001&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-400">
+          <mxGeometry x="20" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-425" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_BENEFIT_002&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;BENEFIT_002&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-400">
+          <mxGeometry x="190" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-434" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_BENEFIT_003&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;BENEFIT_003&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-400">
+          <mxGeometry x="360" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-435" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_BENEFIT_004&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;BENEFIT_004&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-400">
+          <mxGeometry x="500" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-408" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-399">
+          <mxGeometry x="710" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-462" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-408" source="hcrP4_iupPlY2hrp6fmF-454" target="hcrP4_iupPlY2hrp6fmF-457">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-454" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_BENEFIT_005&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;BENEFIT_005&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-408">
+          <mxGeometry x="30" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-455" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=327666299&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;07 T기프트 리스트 조회&lt;/a&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;(&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;PROD0007)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-408">
+          <mxGeometry x="30" y="145" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-456" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-408" source="hcrP4_iupPlY2hrp6fmF-454" target="hcrP4_iupPlY2hrp6fmF-455">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-457" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_BENEFIT_006&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;BENEFIT_006&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-408">
+          <mxGeometry x="215" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-458" value="&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=327666321&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;08 T기프트 상세설명 조회&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-408">
+          <mxGeometry x="215" y="145" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-459" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-408" source="hcrP4_iupPlY2hrp6fmF-457" target="hcrP4_iupPlY2hrp6fmF-458">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-464" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-399">
+          <mxGeometry x="1100" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-474" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/API_BFF_WIRELESS_ORDER_002&quot; style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; color: rgb(59 , 115 , 175)&quot;&gt;API_BFF_WIRELESS_&lt;br&gt;ORDER_002&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-464">
+          <mxGeometry x="30" y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-475" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/01+As-Is+Open+API&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;01 As-Is Open API&lt;/a&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: left ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;TWDD_SELF_URL_REQUEST)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-464">
+          <mxGeometry x="30" y="145" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-476" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-464" source="hcrP4_iupPlY2hrp6fmF-474" target="hcrP4_iupPlY2hrp6fmF-475">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-412" value="Backend API" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-375">
+          <mxGeometry y="430" width="1470.000000000001" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-413" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-412">
+          <mxGeometry x="40" width="670" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-414" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/01+As-Is+Open+API&quot; style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; color: rgb(59 , 115 , 175) ; text-decoration: none ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;01 As-Is Open API&lt;/a&gt;&lt;span style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;br&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;TWDD_COUPON_LIST)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-413">
+          <mxGeometry x="20" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-416" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/display/TDSAPIM/01+As-Is+Open+API&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;01 As-Is Open API&lt;/a&gt;&lt;br&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;text-align: left ; color: rgb(85 , 85 , 85) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;TWDD_COUPON_REG)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-413">
+          <mxGeometry x="190" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-417" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-412">
+          <mxGeometry x="710" width="390" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-465" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-412">
+          <mxGeometry x="1100" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-477" value="&lt;a href=&quot;https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=335228618&quot; style=&quot;text-align: left ; color: rgb(59 , 115 , 175) ; font-family: &amp;#34;맑은 고딕&amp;#34; , &amp;#34;seoul&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;TDS_BE_ORDER_001&lt;br&gt;(신청정보 저장)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-465">
+          <mxGeometry x="200" y="25" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-425" target="hcrP4_iupPlY2hrp6fmF-416">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-401" target="hcrP4_iupPlY2hrp6fmF-414">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-436" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-434" target="hcrP4_iupPlY2hrp6fmF-429">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-419" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-383" target="hcrP4_iupPlY2hrp6fmF-401">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-442" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-401" target="hcrP4_iupPlY2hrp6fmF-380">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-460" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-443" target="hcrP4_iupPlY2hrp6fmF-454">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-461" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.67;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-457" target="hcrP4_iupPlY2hrp6fmF-443">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="995" y="280" />
+              <mxPoint x="830" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-478" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-475" target="hcrP4_iupPlY2hrp6fmF-477">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcrP4_iupPlY2hrp6fmF-479" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-375" source="hcrP4_iupPlY2hrp6fmF-471" target="hcrP4_iupPlY2hrp6fmF-474">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
