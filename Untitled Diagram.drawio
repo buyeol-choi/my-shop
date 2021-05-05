@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T05:23:20.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QmdzSvqH8Jo4bu7iqEFj" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T05:26:51.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="7o1qcYac0_PJHBYxyg7G" version="14.6.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="4063" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hcrP4_iupPlY2hrp6fmF-1" value="step1" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="930" height="540" as="geometry" />
+          <mxGeometry x="50" y="110" width="930" height="540" as="geometry" />
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-1" source="hcrP4_iupPlY2hrp6fmF-7" target="hcrP4_iupPlY2hrp6fmF-17">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-214" value="step2" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1000" y="40" width="1280.000000000001" height="540" as="geometry" />
+          <mxGeometry x="1000" y="110" width="1280.000000000001" height="540" as="geometry" />
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-216" value="Frontend" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-214">
           <mxGeometry y="40" width="1280.000000000001" height="270" as="geometry" />
@@ -273,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-312" value="장바구니" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="610" width="930" height="540" as="geometry" />
+          <mxGeometry x="50" y="680" width="930" height="540" as="geometry" />
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hcrP4_iupPlY2hrp6fmF-312" source="hcrP4_iupPlY2hrp6fmF-319" target="hcrP4_iupPlY2hrp6fmF-329">
           <mxGeometry relative="1" as="geometry" />
@@ -351,13 +351,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-359" value="장바구니삭제" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="780" width="140" height="60" as="geometry" />
+          <mxGeometry x="520" y="850" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-360" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="hcrP4_iupPlY2hrp6fmF-320" target="hcrP4_iupPlY2hrp6fmF-359">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-375" value="step3" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1000" y="610" width="1470.000000000001" height="540" as="geometry" />
+          <mxGeometry x="1000" y="680" width="1470.000000000001" height="540" as="geometry" />
         </mxCell>
         <mxCell id="hcrP4_iupPlY2hrp6fmF-376" value="Frontend" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="hcrP4_iupPlY2hrp6fmF-375">
           <mxGeometry y="40" width="1470.000000000001" height="270" as="geometry" />
